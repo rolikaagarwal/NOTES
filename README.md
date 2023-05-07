@@ -12,7 +12,7 @@
 
 - Fork the repo to your Github.
 
-- Clone the Forked Repository to your local machine.
+- Clone the Forked Repository to your local machine
 	```
 	git clone https://github.com/<YOUR_GITHUB_USER_NAME>/NOTES.git.
 	```
