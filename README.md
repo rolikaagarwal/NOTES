@@ -6,6 +6,14 @@
 `JavaScript`
 `CSS`
 
+
+VIEW DEMO- 
+
+
+
+https://github.com/rolikaagarwal/NOTES/assets/81984963/4c76b9f8-9893-4ca6-9ec4-98719a632729
+
+
 ## Project Initialization
 
 - Download node package From [nodejs.org](https://nodejs.org/en/download/)
